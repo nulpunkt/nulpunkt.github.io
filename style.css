@@ -1,0 +1,12 @@
+body {
+	background: #000;
+	padding: 0px;
+	margin: 0px;
+}
+#center-of-the-universe {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -23px;
+  margin-left: -182px;
+}
